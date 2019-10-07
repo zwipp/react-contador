@@ -1,0 +1,16 @@
+.zerar, .aumentar, .diminuir{
+    border: 1px solid black;
+}
+
+
+.zerar{
+    background-color: #ccc;
+}
+
+.aumentar{
+    background-color: chartreuse;
+}
+
+.diminuir{
+    background-color: red;
+}
